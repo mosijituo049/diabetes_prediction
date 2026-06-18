@@ -1,0 +1,7 @@
+input_data:
+  file1: "../data/raw/diabetes_prediction_dataset.csv"
+  file3: 
+  
+
+output_data:
+  file1:
