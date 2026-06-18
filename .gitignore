@@ -60,3 +60,13 @@ Thumbs.db
 # mypy
 # =========================
 .mypy_cache/
+
+
+models/
+*.joblib
+*.pkl
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
