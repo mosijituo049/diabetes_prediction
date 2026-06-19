@@ -46,7 +46,11 @@ def load_models():
         "logistic_regression",
         "random_forest",
         "tuned_random_forest",
-        "xgboost"
+        "tuned_random_forest_balanced",
+        "tuned_random_forest_smote",
+        "xgboost",
+        "knn",
+        "tuned_knn"
     ]
 
     models = dict()
