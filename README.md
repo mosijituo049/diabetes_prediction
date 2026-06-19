@@ -4,6 +4,11 @@ A machine learning project for predicting diabetes risk using demographic and he
 
 ---
 
+## Presentation
+
+📊 [Project Presentation]https://docs.google.com/presentation/d/1lg-mK-RkW9lGhrf1Y70ONlKTjEsKikF0dnbCVztizNE/edit?usp=sharing
+---
+
 ## Project Overview
 
 The objective of this project is to develop and compare multiple machine learning models for diabetes prediction and identify the most effective approach based on classification performance.
